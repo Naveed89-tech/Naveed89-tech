@@ -4,6 +4,7 @@
 A Passionate Front-end Web Developer & Web Designer. I really enjoy learning new languages and frameworks. I also enjoy web designing.
 
 ## Skills and experience
+ #HTML
 ![HTML](https://github.com/Naveed89-tech/Naveed89-tech/blob/main/html%201.png)
 JS / HTML / CSS/Tailwind CSS
 
