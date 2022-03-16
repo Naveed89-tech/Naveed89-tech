@@ -15,9 +15,9 @@ A Passionate Front-end Web Developer & Web Designer. I really enjoy learning new
 
 
 
-<img src='https://github.com/Naveed89-tech/Naveed89-tech/blob/main/Egency%20landing%20page.png' alt='work example' width='256'/> 
- <img src='https://github.com/Naveed89-tech/Naveed89-tech/blob/main/website%20desing%20.png' alt='work example' width='256'/>
- <img src='https://github.com/Naveed89-tech/Naveed89-tech/blob/main/website%20devlopment.png' alt='work example' width='256'/>
+<img src='https://github.com/Naveed89-tech/Naveed89-tech/blob/main/Egency%20landing%20page.png' alt='work example' width='256'/>  <img src='https://github.com/Naveed89-tech/Naveed89-tech/blob/main/website%20devlopment.png' alt='work example' width='256'/> <img src='https://github.com/Naveed89-tech/Naveed89-tech/blob/main/website%20desing%20.png' alt='work example' width='256'/>
+ 
+
 
 
 
