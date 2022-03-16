@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Naveed
 #### Front-End Web Develope & Web Designer
-![Front-End Web Develope & Web Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Front-End Web Develope & Web Designer](https://github.com/Naveed89-tech/Naveed89-tech/blob/main/Component%201.png)
 
 A Passionate Front-end Web Developer & Web Designer.
 
