@@ -1,10 +1,11 @@
-### Hi there 👋, my name is Naveed
-#### Front-End Web Develope & Web Designer
+
 ![Front-End Web Develope & Web Designer](https://github.com/Naveed89-tech/Naveed89-tech/blob/main/Component%201.png)
+### Hi there 👋, I am  Naveed
+A Passionate Front-end Web Developer & Web Designer. I really enjoy learning new languages and frameworks. I also enjoy web designing.
 
-A Passionate Front-end Web Developer & Web Designer.
-
-Skills:  JS / HTML / CSS/Tailwind CSS
+## Skills and experience
+![Alt text](https://iconscout.com/icon/html-2752158)
+JS / HTML / CSS/Tailwind CSS
 
 - 🔭 I’m currently working on Upwork/Fiver as freelancer 
 - 🌱 I’m currently learning Tailwind CSS and UX/UI 
