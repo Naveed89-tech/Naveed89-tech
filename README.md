@@ -4,7 +4,7 @@
 A Passionate Front-end Web Developer & Web Designer. I really enjoy learning new languages and frameworks. I also enjoy web designing.
 
 ## Skills and experience
-![Alt text](https://iconscout.com/icon/html-2752158)
+![https://iconscout.com/icon/html-2752158]
 JS / HTML / CSS/Tailwind CSS
 
 - 🔭 I’m currently working on Upwork/Fiver as freelancer 
