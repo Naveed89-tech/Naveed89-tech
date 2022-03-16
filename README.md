@@ -5,9 +5,9 @@ A Passionate Front-end Web Developer & Web Designer. I really enjoy learning new
 
 ## Skills and experience
 #### HTML ![HTML](https://github.com/Naveed89-tech/Naveed89-tech/blob/main/html%201.png)
-CSS,Javascript
-,![CSS](https://github.com/Naveed89-tech/Naveed89-tech/blob/main/css%201.png)
-JS / HTML / CSS/Tailwind CSS
+#### CSS   ![CSS](https://github.com/Naveed89-tech/Naveed89-tech/blob/main/css%201.png)
+#### Javascript  ![CSS](https://github.com/Naveed89-tech/Naveed89-tech/blob/main/javascript%201.png)
+
 
 - 🔭 I’m currently working on Upwork/Fiver as freelancer 
 - 🌱 I’m currently learning Tailwind CSS and UX/UI 
